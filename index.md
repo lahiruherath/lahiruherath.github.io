@@ -1,6 +1,6 @@
 ## Lahiru Herath
 
-Hi, I'm Lahiru Herath
+Hi, I'm Lahiru Herath. I'm a Sri Lankan Mechatronics master graduate.
 
 
 ### My Education
@@ -24,5 +24,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-t
+
 
