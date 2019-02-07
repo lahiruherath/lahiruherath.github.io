@@ -1,6 +1,10 @@
+<p align="center">
+<img src ="https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg" width = "320" height = "480" align = "center"/>
+</p>
+
 # Lahiru Herath
 
-Hi, I'm Lahiru Herath. I'm a Sri Lankan Mechatronics master graduate. Interested in Engineering projects involving Machinery and Software design. 
+Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development.I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast.
 
 
 ## My Education
@@ -30,10 +34,12 @@ Title       | Description
 Time Period |    May 2018 to Nov 2018
 Designation | Master Thesis Student
 Address | Max Planck Institute for Intelligent Systems, Max-Planck-Ring 4, 72076, Tuebingen, Germany 
-Website | https://www.is.mpg.de/ , https://www.cyber-valley.de/en<
+Website | https://www.is.mpg.de/ , https://www.cyber-valley.de/en
 Business or sector  | Research Organization
 
-*Interactive motion generation on Softbank robotics pepper robot using Playful: Softbank robotics personal emotional robot pepper is one of the most widely used commercially available humanoids with more than 2000 institutions rendering its service and 10000 units sold. The robot is used as the poster child for robotics in many articles and documentaries for example in the recent presentation at the British Parliament. However even with a high level API as Naoqi supplied by the manufacturer the robot in many occasions is used only for scripted behaviour and voice recognition interactions. With this project we develop a new supplementary API with an additional reactive motion generation component. The new API supports the user in creating robust and complex reactive behaviours with the robot.*
+
+</br>*Interactive motion generation on Softbank robotics pepper robot using Playful: Softbank robotics personal emotional robot pepper is one of the most widely used commercially available humanoids with more than 2000 institutions rendering its service and 10000 units sold. The robot is used as the poster child for robotics in many articles and documentaries for example in the recent presentation at the British Parliament. However even with a high level API as Naoqi supplied by the manufacturer the robot in many occasions is used only for scripted behaviour and voice recognition interactions. With this project we develop a new supplementary API with an additional reactive motion generation component. The new API supports the user in creating robust and complex reactive behaviours with the robot.*</br>
+</br>
 
 
 Title       | Description
@@ -44,7 +50,7 @@ Address | Brandix Apparel Solutions Limited – Lingerie, Lot 19, Block B, Biyag
 Website | http://www.brandix.com/
 Business or sector  | Apparel Manufacturing
 
-*Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*
+</br>*Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*</br>
 
 
 Title       | Description
@@ -56,7 +62,7 @@ Website | http://www.regional-robotics.org/
 Business or sector  | University
 
 
-*Studied in the Regional Centre of Robotics Technology, Mechanical Engineering department of Chulalongkorn University, Thailand. Gained adequate knowledge in forward and inverse kinematics, adaptive control systems, sensosray 626 pc cards, python and visual studio. Worked on a master/ slave robotic arm manipulation using haptic devices.*
+</br>*Studied in the Regional Centre of Robotics Technology, Mechanical Engineering department of Chulalongkorn University, Thailand. Gained adequate knowledge in forward and inverse kinematics, adaptive control systems, sensosray 626 pc cards, python and visual studio. Worked on a master/ slave robotic arm manipulation using haptic devices.*</br>
 
 
 Title       | Description
@@ -67,10 +73,27 @@ Address | Ceylon Cold Stores PLC, Ranala, Sri Lanka
 Website | http://ccs.lk/
 Business or sector  | FMCG Manufacturing
 
-*Learnt about automated production lines and automation applications using the S7 PLC. Gained sufficient knowledge about high speed bottling technologies and all the machinery applications related bottling line technologies. Competent in ice cream manufacturing processes along with chilling and chiller plants.*
+</br>*Learnt about automated production lines and automation applications using the S7 PLC. Gained sufficient knowledge about high speed bottling technologies and all the machinery applications related bottling line technologies. Competent in ice cream manufacturing processes along with chilling and chiller plants.*</br>
 
 
-##My Projects
+
+## My Skills
+
+-   **Machinery design and fabrication using Solidworks and Uni graphics. Competant in handling CNC machine and G codes and all major farication instruments and requirements**
+
+-   **Embedded firware development using PIC, RPi, Arduino and Nvidia Jetson**
+
+-   **PGA development using Xilinux**
+
+-   **MATLAB and MATLAB Simulink** 
+
+-   **STL/Ladder specifically S7 PLC**
+
+-   **Linux based systems such as Robot Operating System (ROS), OpenCV, CUDA, PCL and git repository management**
+
+-   **Competant in C, C++, Python and Latex documentation**
+
+## My Projects
 
 ▪   Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. https://playful.is.tuebingen.mpg.de/<br/>
 ▪   Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm<br/>
@@ -94,19 +117,12 @@ Business or sector  | FMCG Manufacturing
 ▪   Detection of checkers board pieces using OpenCV<br/>
 ▪   Comparison of optical flow algorithms on CUDA<br/>
 
-![profile_picture](https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg) 
+
 
 ```markdown
 Syntax highlighted code block
 
 
-- Bulleted
-- List
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) 
 
 ```
 
