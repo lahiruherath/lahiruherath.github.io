@@ -49,7 +49,7 @@ Address | Brandix Apparel Solutions Limited – Lingerie, Lot 19, Block B, Biyag
 Website | http://www.brandix.com/
 Business or sector  | Apparel Manufacturing
 
-</br>*Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*</br>
+*Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*
 
 
 Title       | Description
@@ -94,7 +94,7 @@ Business or sector  | FMCG Manufacturing
 
 ## My Projects
 
-*Master Studies*
+**"*Master Studies*"**
 
 1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. https://playful.is.tuebingen.mpg.de/
 
@@ -106,7 +106,7 @@ Business or sector  | FMCG Manufacturing
 
 5.   Design of a Iris Scanner using Zybo, Xilinux FPGA
 
-*Work*
+**"*Work*"**
 
 1. Was involved in the development of 19 automated shoulder strap making machine which would full automate the shoulder strap production for bras. Upgraded the drawings and the design and managed the project adhering to timelines and supervised fabrication and installation.
 
@@ -128,7 +128,7 @@ Business or sector  | FMCG Manufacturing
 
 10. Designed a machine that deskills the bra stabilizer attachment operation
 
-*Bachelors' Studies*
+**"*Bachelors' Studies*"**
 
 1. Bachelors Thesis – Master Slave XY axis manipulator using Arduino and TC/PIP
 
