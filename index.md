@@ -4,7 +4,7 @@
 
 # Lahiru Herath
 <p style='text-align: justify;'>
-    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development.I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast. 
+    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development. I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast. 
 </p>
 
 
@@ -153,6 +153,11 @@ Business or sector  | FMCG Manufacturing
 
 6.  Comparison of optical flow algorithms on CUDA
 
+## Lanuages
+
+-   Sinhalese:  Mothertongue
+-   English:    Fluent
+-   Deutsch:    Beginner
 
 ## Publications
 
