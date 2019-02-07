@@ -39,6 +39,7 @@ Website | https://www.is.mpg.de/ , https://www.cyber-valley.de/en
 Business or sector  | Research Organization
 
 <p style='text-align: justify;'>
+
 *Interactive motion generation on Softbank robotics pepper robot using Playful: Softbank robotics personal emotional robot pepper is one of the most widely used commercially available humanoids with more than 2000 institutions rendering its service and 10000 units sold. The robot is used as the poster child for robotics in many articles and documentaries for example in the recent presentation at the British Parliament. However even with a high level API as Naoqi supplied by the manufacturer the robot in many occasions is used only for scripted behaviour and voice recognition interactions. With this project we develop a new supplementary API with an additional reactive motion generation component. The new API supports the user in creating robust and complex reactive behaviours with the robot.*
 </p>
 
@@ -51,7 +52,8 @@ Website | http://www.brandix.com/
 Business or sector  | Apparel Manufacturing
 
 <p style='text-align: justify;'>
-*Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*
+
+*Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information
 </p>
 
 Title       | Description
@@ -63,6 +65,7 @@ Website | http://www.regional-robotics.org/
 Business or sector  | University
 
 <p style='text-align: justify;'>
+
 *Studied in the Regional Centre of Robotics Technology, Mechanical Engineering department of Chulalongkorn University, Thailand. Gained adequate knowledge in forward and inverse kinematics, adaptive control systems, sensosray 626 pc cards, python and visual studio. Worked on a master/ slave robotic arm manipulation using haptic devices.*
 </p>
 
@@ -75,6 +78,7 @@ Website | http://ccs.lk/
 Business or sector  | FMCG Manufacturing
 
 <p style='text-align: justify;'>
+
 *Learnt about automated production lines and automation applications using the S7 PLC. Gained sufficient knowledge about high speed bottling technologies and all the machinery applications related bottling line technologies. Competent in ice cream manufacturing processes along with chilling and chiller plants.*
 </p>
 
@@ -136,13 +140,13 @@ Business or sector  | FMCG Manufacturing
 **"*Bachelors' Studies*"**
 
 
-1. Bachelors Thesis – Master Slave XY axis manipulator using Arduino and TC/PIP
+1.  Bachelors Thesis – Master Slave XY axis manipulator using Arduino and TC/PIP
 
-2. Bachelors Internship – Integration of a Master Slave communication to a 5 bar manipulator and a Sensable Phantom Omni
+2.  Bachelors Internship – Integration of a Master Slave communication to a 5 bar manipulator and a Sensable Phantom Omni
 
-3.   Multiple Design projects using Solidworks and Siemens Uni Graphics
+3.  Multiple Design projects using Solidworks and Siemens Uni Graphics
 
-4. Design of a PID controller for motor position control using Siemens PLC and WinCC visualization
+4.  Design of a PID controller for motor position control using Siemens PLC and WinCC visualization
 
 5.  Detection of checkers board pieces using OpenCV
 
