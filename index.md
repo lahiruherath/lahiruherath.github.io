@@ -4,7 +4,7 @@
 
 # Lahiru Herath
 <p style='text-align: justify;'>
-    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development. I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast. 
+    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development. I consider myself lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch things up fast. 
 </p>
 
 
@@ -155,11 +155,15 @@ Business or sector  | FMCG Manufacturing
 
 ## Lanuages
 
--   Sinhalese:  Mothertongue
+-   Sinhalese:  Mother tongue
 -   English:    Fluent
 -   Deutsch:    Beginner
 
 ## Publications
 
 -   Sharif A., Lahiru H., Herath S. and Roth H. (2018). Energy Efficient Path Planning of Hybrid Fly-Drive Robot (HyFDR) using A* Algorithm.In Proceedings of the 15th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO, ISBN 978-989-758-321-6, pages 201-210. DOI: 10.5220/0006912602110220
+
+-   Master Thesis:
+
+-   Article Mechatronics: 
 
