@@ -74,7 +74,7 @@ Title       | Description
 Time Period |    June 2012 to August 2012
 Designation | In Plant Trainee – Engineering Department
 Address | Ceylon Cold Stores PLC, Ranala, Sri Lanka
-Website | http://ccs.lk/
+Website | <a href="http://ccs.lk/">ccs.lk</a>
 Business or sector  | FMCG Manufacturing
 
 <p style='text-align: justify;'>
