@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg" width = "320" height = "480" alt= " "/>
+<img src ="/pictures/profile_picture.jpg" width = "320" height = "480"/>
 </p>
 
 # Lahiru Herath
