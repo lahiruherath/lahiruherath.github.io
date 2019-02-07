@@ -108,7 +108,7 @@ Business or sector  | FMCG Manufacturing
 
 2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm.<a href="https://www.youtube.com/watch?v=kjXr3PdFTp8&t=56s">Video</a>
 
-3.  Colour sorter and a line following robot using MatLab Simulink and Lego Mindstorms <a href=" https://www.youtube.com/watch?v=sNMEDSKErI0&feature=youtu.be">Video</a>
+3.  Colour sorter and a line following robot using MatLab Simulink and Lego Mindstorms <a href="https://www.youtube.com/watch?v=sNMEDSKErI0&feature=youtu.be">Video</a>
 
 4.  Balancing platform using SciLab, FreeRTOS and Atmel Microcontroller
 
