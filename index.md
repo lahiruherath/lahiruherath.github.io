@@ -55,7 +55,12 @@ In Plant Trainee – Engineering Department<br/>
 Ceylon Cold Stores PLC,<br/>
 Ranala,<br/>
 Sri Lanka Website : http://ccs.lk/<br/>
+
+.text-justify {
+  text-align: justify;
 Learnt about automated production lines and automation applications using the S7 PLC. Gained sufficient knowledge about high speed bottling technologies and all the machinery applications related bottling line technologies. Competent in ice cream manufacturing processes along with chilling and chiller plants.<br/>
+}
+
 Business or sector: FMCG Manufacturing
 
 ##My Projects
@@ -82,6 +87,9 @@ Business or sector: FMCG Manufacturing
 ▪   Detection of checkers board pieces using OpenCV<br/>
 ▪   Comparison of optical flow algorithms on CUDA<br/>
 
+
+![profile_picture](https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg)
+
 ```markdown
 Syntax highlighted code block
 
@@ -93,7 +101,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) 
-![profile_picture](https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg)
+
 ```
 
 
