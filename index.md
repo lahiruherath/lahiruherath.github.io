@@ -4,8 +4,9 @@
 
 # Lahiru Herath
 
-Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development.I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast.
-
+<p class="text-justify">
+    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development.I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast.
+</p>
 
 ## My Education
 
