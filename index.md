@@ -56,7 +56,6 @@ Ceylon Cold Stores PLC,<br/>
 Ranala,Sri Lanka<br/>
 Website : http://ccs.lk/<br/>
 
-{: style="text-align: justify"}
 Learnt about automated production lines and automation applications using the S7 PLC. Gained sufficient knowledge about high speed bottling technologies and all the machinery applications related bottling line technologies. Competent in ice cream manufacturing processes along with chilling and chiller plants.<br/>
 
 Business or sector: FMCG Manufacturing
@@ -86,7 +85,7 @@ Business or sector: FMCG Manufacturing
 ▪   Comparison of optical flow algorithms on CUDA<br/>
 
 
-![profile_picture](https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg)
+<iframe src=(https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg) width="500" height="500"></iframe>
 
 ```markdown
 Syntax highlighted code block
