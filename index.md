@@ -98,7 +98,7 @@ Business or sector  | FMCG Manufacturing
 ## My Projects
 
 **"*Master Studies*"**
-<p style='text-align: justify;'>
+
 1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. https://playful.is.tuebingen.mpg.de/
 
 2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm https://www.youtube.com/watch?v=kjXr3PdFTp8&t=56s
@@ -108,10 +108,10 @@ Business or sector  | FMCG Manufacturing
 4.  Balancing platform using SciLab, FreeRTOS and Atmel Microcontroller
 
 5.   Design of a Iris Scanner using Zybo, Xilinux FPGA
-</p>
+
 
 **"*Work*"**
-<p style='text-align: justify;'>
+
 1. Was involved in the development of 19 automated shoulder strap making machine which would full automate the shoulder strap production for bras. Upgraded the drawings and the design and managed the project adhering to timelines and supervised fabrication and installation.
 
 2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production. https://www.youtube.com/watch?v=GeSRl1T7y20&feature=youtu.be
@@ -131,11 +131,11 @@ Business or sector  | FMCG Manufacturing
 9.  Designed an automated bra underwire insertion machine
 
 10. Designed a machine that deskills the bra stabilizer attachment operation https://www.youtube.com/watch?v=zdOoPV4-WMY&feature=youtu.be
-</p>
+
 
 **"*Bachelors' Studies*"**
 
-<p style='text-align: justify;'>
+
 1. Bachelors Thesis – Master Slave XY axis manipulator using Arduino and TC/PIP
 
 2. Bachelors Internship – Integration of a Master Slave communication to a 5 bar manipulator and a Sensable Phantom Omni
@@ -147,7 +147,7 @@ Business or sector  | FMCG Manufacturing
 5.  Detection of checkers board pieces using OpenCV
 
 6.  Comparison of optical flow algorithms on CUDA
-</p>
+
 
 ## Publications
 
