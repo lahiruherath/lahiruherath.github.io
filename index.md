@@ -53,13 +53,11 @@ Business or sector: University
 June 2012 to August 2012<br/>
 In Plant Trainee – Engineering Department<br/>
 Ceylon Cold Stores PLC,<br/>
-Ranala,<br/>
-Sri Lanka Website : http://ccs.lk/<br/>
+Ranala,Sri Lanka<br/>
+Website : http://ccs.lk/<br/>
 
-.text-justify {
-  text-align: justify;
+{: style="text-align: justify"}
 Learnt about automated production lines and automation applications using the S7 PLC. Gained sufficient knowledge about high speed bottling technologies and all the machinery applications related bottling line technologies. Competent in ice cream manufacturing processes along with chilling and chiller plants.<br/>
-}
 
 Business or sector: FMCG Manufacturing
 
