@@ -35,7 +35,7 @@ Title       | Description
 Time Period |    May 2018 to Nov 2018
 Designation | Master Thesis Student
 Address | Max Planck Institute for Intelligent Systems, Max-Planck-Ring 4, 72076, Tuebingen, Germany 
-Website | https://www.is.mpg.de/ , https://www.cyber-valley.de/en
+Website | <a href="https://www.is.mpg.de/">https://www.is.mpg.de/</a> , <a href="https://www.cyber-valley.de/en">https://www.cyber-valley.de/en</a>
 Business or sector  | Research Organization
 
 <p style='text-align: justify;'>
@@ -48,7 +48,7 @@ Title       | Description
 Time Period |  June 2014 to August 2016
 Designation | Engineer - Automation
 Address | Brandix Apparel Solutions Limited – Lingerie, Lot 19, Block B, Biyagama EPZ, Malwana, Sri Lanka 
-Website | http://www.brandix.com/
+Website | <a href="http://www.brandix.com/">http://www.brandix.com/</a> 
 Business or sector  | Apparel Manufacturing
 
 <p style='text-align: justify;'>
@@ -61,7 +61,7 @@ Title       | Description
 Time Period |   May 2013 to August 2013
 Designation | R&D Trainee
 Address | Regional Robotics Laboratory, Department of Mechanical Engineering, Chulalongkorn University, Thailand 
-Website | http://www.regional-robotics.org/
+Website | <a href="http://www.regional-robotics.org/">http://www.regional-robotics.org/</a> 
 Business or sector  | University
 
 <p style='text-align: justify;'>
@@ -74,7 +74,7 @@ Title       | Description
 Time Period |    June 2012 to August 2012
 Designation | In Plant Trainee – Engineering Department
 Address | Ceylon Cold Stores PLC, Ranala, Sri Lanka
-Website | <a href="http://ccs.lk/">ccs.lk</a>
+Website | <a href="http://ccs.lk/">http://ccs.lk/</a>
 Business or sector  | FMCG Manufacturing
 
 <p style='text-align: justify;'>
@@ -103,11 +103,11 @@ Business or sector  | FMCG Manufacturing
 
 **"*Master Studies*"**
 
-1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. https://playful.is.tuebingen.mpg.de/
+1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. <a href="https://playful.is.tuebingen.mpg.de/">playful website</a>
 
-2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm https://www.youtube.com/watch?v=kjXr3PdFTp8&t=56s
+2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm.<a href="https://www.youtube.com/watch?v=kjXr3PdFTp8&t=56s">Video</a>
 
-3.  Colour sorter and a line following robot using MatLab Simulink and Lego Mindstorms https://www.youtube.com/watch?v=sNMEDSKErI0&feature=youtu.be
+3.  Colour sorter and a line following robot using MatLab Simulink and Lego Mindstorms <a href=" https://www.youtube.com/watch?v=sNMEDSKErI0&feature=youtu.be">Video</a>
 
 4.  Balancing platform using SciLab, FreeRTOS and Atmel Microcontroller
 
@@ -118,15 +118,15 @@ Business or sector  | FMCG Manufacturing
 
 1. Was involved in the development of 19 automated shoulder strap making machine which would full automate the shoulder strap production for bras. Upgraded the drawings and the design and managed the project adhering to timelines and supervised fabrication and installation.
 
-2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production. https://www.youtube.com/watch?v=GeSRl1T7y20&feature=youtu.be
+2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production.  <a href="https://www.youtube.com/watch?v=GeSRl1T7y20&feature=youtu.be">Video</a>
 
-3.  Re designed a Fabric Molding machine to cater larger molds as a requirement by a customer. Wrote the cost effective firmware for the machine using Arduino https://www.youtube.com/watch?v=yJOjEGN-oGo
+3.  Re designed a Fabric Molding machine to cater larger molds as a requirement by a customer. Wrote the cost effective firmware for the machine using Arduino  <a href="https://www.youtube.com/watch?v=yJOjEGN-oGo">Video</a>
 
 4. Designed a machine and wrote the firmware using PIC for a shoulder strap Measuring Unit for the purpose of dispensing the correct quantity from the RM stores 
 
-5.  Created a low cost efficient Performance Monitor for the use of data collection and performance monitoring of machine operators using raspberry pi and python https://www.youtube.com/watch?v=3SPhckUXqRM
+5.  Created a low cost efficient Performance Monitor for the use of data collection and performance monitoring of machine operators using raspberry pi and python  <a href="https://www.youtube.com/watch?v=3SPhckUXqRM">Video</a>
 
-6.  Designed a fabric relaxing and dispensing unit for the Fabric Inspection department. https://www.youtube.com/watch?v=_8_MBdww0ok
+6.  Designed a fabric relaxing and dispensing unit for the Fabric Inspection department.  <a href="https://www.youtube.com/watch?v=_8_MBdww0ok">Video</a>
 
 7.   Developed a smart automated chopper for the sewing process by tapping into the machine from outside circuitry using a pic microcontroller and a fibre optic sensor
 
@@ -134,7 +134,7 @@ Business or sector  | FMCG Manufacturing
 
 9.  Designed an automated bra underwire insertion machine
 
-10. Designed a machine that deskills the bra stabilizer attachment operation https://www.youtube.com/watch?v=zdOoPV4-WMY&feature=youtu.be
+10. Designed a machine that deskills the bra stabilizer attachment operation <a href="https://www.youtube.com/watch?v=sNMEDSKErI0&feature=youtu.be">Video</a>
 
 
 **"*Bachelors' Studies*"**
