@@ -93,7 +93,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) 
-![Image](pictures/profile_picture.jpg)
+![profile_picture](https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg)
 ```
 
 
