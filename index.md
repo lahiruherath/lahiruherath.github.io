@@ -90,7 +90,7 @@ Business or sector  | FMCG Manufacturing
 
 -   **Embedded firware development using PIC, RPi, Arduino and Nvidia Jetson**
 
--   **PGA development using Xilinux**
+-   **FPGA development using Xilinux**
 
 -   **MATLAB and MATLAB Simulink** 
 
