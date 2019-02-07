@@ -84,8 +84,7 @@ Business or sector: FMCG Manufacturing
 ▪   Detection of checkers board pieces using OpenCV<br/>
 ▪   Comparison of optical flow algorithms on CUDA<br/>
 
-
-<iframe src=(https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg) width="500" height="500"></iframe>
+[profile_picture](https://github.com/lahiruherath/lahiruherath.github.io/blob/master/pictures/profile_picture.jpg) 
 
 ```markdown
 Syntax highlighted code block
