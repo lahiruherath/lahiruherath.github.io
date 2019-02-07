@@ -47,7 +47,7 @@ Title       | Description
 Time Period |  June 2014 to August 2016
 Designation | Engineer - Automation
 Address | Brandix Apparel Solutions Limited – Lingerie, Lot 19, Block B, Biyagama EPZ, Malwana, Sri Lanka 
-Website | [url] http://www.brandix.com/
+Website | http://www.brandix.com/
 Business or sector  | Apparel Manufacturing
 
 *Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*
@@ -79,7 +79,7 @@ Business or sector  | FMCG Manufacturing
 
 ## My Skills
 
--   **Machinery design and fabrication using Solidworks and Uni graphics. Competant in handling CNC machine and G codes and all major farication instruments and requirements**
+-   **Machinery design and fabrication using Solidworks and Uni graphics. Competant in handling CNC machines and G codes and all major fabrication instruments and requirements**
 
 -   **Embedded firware development using PIC, RPi, Arduino and Nvidia Jetson**
 
@@ -111,9 +111,9 @@ Business or sector  | FMCG Manufacturing
 
 1. Was involved in the development of 19 automated shoulder strap making machine which would full automate the shoulder strap production for bras. Upgraded the drawings and the design and managed the project adhering to timelines and supervised fabrication and installation.
 
-2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production. https://www.youtube.com/watch?v=yJOjEGN-oGo&feature=youtu.be
+2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production. https://www.youtube.com/watch?v=GeSRl1T7y20&feature=youtu.be
 
-3.  Re designed a Fabric Molding machine to cater larger molds as a requirement by a customer. Wrote the cost effective firmware for the machine using Arduino
+3.  Re designed a Fabric Molding machine to cater larger molds as a requirement by a customer. Wrote the cost effective firmware for the machine using Arduino https://www.youtube.com/watch?v=yJOjEGN-oGo
 
 4. Designed a machine and wrote the firmware using PIC for a shoulder strap Measuring Unit for the purpose of dispensing the correct quantity from the RM stores 
 
