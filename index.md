@@ -3,10 +3,10 @@
 </p>
 
 # Lahiru Herath
-
-<p class="text-justify">
-    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development.I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast.
+<p style='text-align: justify;'>
+    Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development.I consider myself a lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch up things fast. 
 </p>
+
 
 ## My Education
 
@@ -47,7 +47,7 @@ Title       | Description
 Time Period |  June 2014 to August 2016
 Designation | Engineer - Automation
 Address | Brandix Apparel Solutions Limited – Lingerie, Lot 19, Block B, Biyagama EPZ, Malwana, Sri Lanka 
-Website | http://www.brandix.com/
+Website | [url] http://www.brandix.com/
 Business or sector  | Apparel Manufacturing
 
 *Key responsibilities are identifying and implementing automation solutions in manufacturing processes and to design and modify machinery & systems to further improve the Quality/ SMV (Standard minute value) of the garment to optimize capacity and cost. To manage the automation department workforce, manage the budgets adhering to the development T&A’s. Please see projects for further information*
@@ -99,9 +99,9 @@ Business or sector  | FMCG Manufacturing
 
 1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. https://playful.is.tuebingen.mpg.de/
 
-2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm
+2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm https://www.youtube.com/watch?v=kjXr3PdFTp8&t=56s
 
-3.  Colour sorter and a line following robot using MatLab Simulink and Lego Mindstorms
+3.  Colour sorter and a line following robot using MatLab Simulink and Lego Mindstorms https://www.youtube.com/watch?v=sNMEDSKErI0&feature=youtu.be
 
 4.  Balancing platform using SciLab, FreeRTOS and Atmel Microcontroller
 
@@ -111,15 +111,15 @@ Business or sector  | FMCG Manufacturing
 
 1. Was involved in the development of 19 automated shoulder strap making machine which would full automate the shoulder strap production for bras. Upgraded the drawings and the design and managed the project adhering to timelines and supervised fabrication and installation.
 
-2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production
+2.  Designed a Fabric Bonding machine with lower cost and with the required unique requirement for production. https://www.youtube.com/watch?v=yJOjEGN-oGo&feature=youtu.be
 
 3.  Re designed a Fabric Molding machine to cater larger molds as a requirement by a customer. Wrote the cost effective firmware for the machine using Arduino
 
-4. Designed a machine and wrote the firmware using PIC for a shoulder strap Measuring Unit for the purpose of dispensing the correct quantity from the RM stores
+4. Designed a machine and wrote the firmware using PIC for a shoulder strap Measuring Unit for the purpose of dispensing the correct quantity from the RM stores 
 
-5.  Created a low cost efficient Performance Monitor for the use of data collection and performance monitoring of machine operators using raspberry pi and python
+5.  Created a low cost efficient Performance Monitor for the use of data collection and performance monitoring of machine operators using raspberry pi and python https://www.youtube.com/watch?v=3SPhckUXqRM
 
-6.  Designed a fabric relaxing and dispensing unit for the Fabric Inspection department.
+6.  Designed a fabric relaxing and dispensing unit for the Fabric Inspection department. https://www.youtube.com/watch?v=_8_MBdww0ok
 
 7.   Developed a smart automated chopper for the sewing process by tapping into the machine from outside circuitry using a pic microcontroller and a fibre optic sensor
 
@@ -127,7 +127,7 @@ Business or sector  | FMCG Manufacturing
 
 9.  Designed an automated bra underwire insertion machine
 
-10. Designed a machine that deskills the bra stabilizer attachment operation
+10. Designed a machine that deskills the bra stabilizer attachment operation https://www.youtube.com/watch?v=zdOoPV4-WMY&feature=youtu.be
 
 **"*Bachelors' Studies*"**
 
@@ -143,7 +143,7 @@ Business or sector  | FMCG Manufacturing
 
 6.  Comparison of optical flow algorithms on CUDA
 
+## Publications
 
-
-
+-   Sharif A., Lahiru H., Herath S. and Roth H. (2018). Energy Efficient Path Planning of Hybrid Fly-Drive Robot (HyFDR) using A* Algorithm.In Proceedings of the 15th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO, ISBN 978-989-758-321-6, pages 201-210. DOI: 10.5220/0006912602110220
 
