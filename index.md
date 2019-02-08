@@ -161,9 +161,9 @@ Business or sector  | FMCG Manufacturing
 
 ## Publications
 
--   Sharif A., Lahiru H., Herath S. and Roth H. (2018). Energy Efficient Path Planning of Hybrid Fly-Drive Robot (HyFDR) using A* Algorithm.In Proceedings of the 15th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO, ISBN 978-989-758-321-6, pages 201-210. DOI: 10.5220/0006912602110220
+-   Sharif A., Lahiru H., Herath S. and Roth H. (2018). Energy Efficient Path Planning of Hybrid Fly-Drive Robot (HyFDR) using A* Algorithm.In Proceedings of the 15th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO, ISBN 978-989-758-321-6, pages 201-210. DOI: 10.5220/0006912602110220 <a href="https://www.youtube.com/watch?v=3PiTMBOSX_4&feature=youtu.be">Video</a> 
 
--   Master Thesis:
+-   Master Thesis:  <a href="https://drive.google.com/file/d/1TpPsBzeWCk1IzaJnfDrAzw11FfsioX64/view?usp=sharing">Report</a>
 
--   Article Mechatronics: 
+-   Article Mechatronics: Pages 14,15,16 <a href="https://drive.google.com/file/d/1ter3C-ApLkPaTxGyYi1AmerSaMUSmR14/view?usp=sharing">Article</a>
 
