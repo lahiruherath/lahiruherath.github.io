@@ -7,12 +7,16 @@
     Hi, I'm Lahiru Herath. I'm a Sri Lankan mechatronics master graduate. Interested in Engineering projects involving Machinery and Software development. I consider myself lazy with routine work but hard working and enthusiastic when it come to novelty and complexity. In addition i appreciate continous learning and you will see that i catch things up fast. 
 </p>
 
+<p style='text-align: justify;'>
+    I am a sociable individual who would get along with most people for a beer after work. However i prefer to be ethical with a Yes or No attitude even with my best friend in an professional atmosphere. I like to travel in my leisure time and have been to around 15-20 countries and lived in 3 (Sri Lanka, Thailand, Germany). As an engineer i enjoy technical work rather than managerial tasks and like to take ideas and suggestions on their merit. I've been brought up to treat every individual whatever his/her profession is with proper courtesy and consider patience and politeness as must have qualities.    
+</p>
+
 
 ## My Education
 
 1.  MSc in Mechatronics<br/>
     University of Siegen, Germany<br/>
-    ▪ Cumulative Grade 2.1 , German Grading system (gut , Second Upper)
+    ▪ Cumulative Grade 2.1/5.0 , German Grading system (gut , Second Upper)
 
 2.  BSc in Engineering in Mechatronics<br/>
     Asian Institute of Technology, Thailand<br/>
@@ -104,7 +108,7 @@ Business or sector  | FMCG Manufacturing
 
 **"*Master Studies*"**
 
-1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. <a href="https://playful.is.tuebingen.mpg.de/">playful website</a>
+1. Master Thesis: Interactive motion generation on Softbank robotics pepper using Playful. Created a new API for the robot that enables reactive behaviour generation on the robot. The project will be released with an open source license in due time. <a href="https://playful.is.tuebingen.mpg.de/">playful website</a> , <a href="https://www.youtube.com/watch?v=4uLgWsHs2ZE&feature=youtu.be">Video</a>
 
 2. Project (Masters): Energy efficient path planning of a hybrid UAV using ROS Gazebo, Octomap and A* Path Planning Algorithm.<a href="https://www.youtube.com/watch?v=kjXr3PdFTp8&t=56s">Video</a>
 
@@ -141,13 +145,13 @@ Business or sector  | FMCG Manufacturing
 **"*Bachelors' Studies*"**
 
 
-1.  Bachelors Thesis – Master Slave XY axis manipulator using Arduino and TC/PIP, <a href="https://www.youtube.com/watch?v=pByceT4nw7U&feature=youtu.be">Video</a>
+1.  Bachelors Thesis – Master Slave XY axis manipulator using Arduino and TC/PIP <a href="https://www.youtube.com/watch?v=pByceT4nw7U&feature=youtu.be">Video</a>
 
 2.  Bachelors Internship – Integration of a Master Slave communication to a 5 bar manipulator and a Sensable Phantom Omni
 
 3.  Multiple Design projects using Solidworks and Siemens Uni Graphics
 
-4.  Design of a PID controller for motor position control using Siemens PLC and WinCC visualization
+4.  Design of a PID controller for motor position control using Siemens PLC and WinCC visualization <a href="https://www.youtube.com/watch?v=EFXx64ZW1mI&feature=youtu.be">Video</a>
 
 5.  Detection of checkers board pieces using OpenCV
 
@@ -166,4 +170,11 @@ Business or sector  | FMCG Manufacturing
 -   Master Thesis:  <a href="https://drive.google.com/file/d/1TpPsBzeWCk1IzaJnfDrAzw11FfsioX64/view?usp=sharing">Report</a>
 
 -   Article Mechatronics: Pages 14,15,16 <a href="https://drive.google.com/file/d/1ter3C-ApLkPaTxGyYi1AmerSaMUSmR14/view?usp=sharing">Article</a>
+
+## Documents
+
+1. Bachelors's Transcript: <a href="https://drive.google.com/file/d/1WkIZ2w-Nl7ccHJQ_j6872HrgJx8EUyVY/view?usp=sharing">Transcript</a>
+
+2. Masters's Transcript: <a href="https://drive.google.com/file/d/1OisrgYoCW3kOqe7QOyoMaB_UR_WiXng9/view?usp=sharing">Transcript</a>
+
 
