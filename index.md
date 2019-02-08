@@ -11,6 +11,10 @@
     I am a sociable individual who would get along with most people for a beer after work. However i prefer to be ethical with a Yes or No attitude even with my best friend in an professional atmosphere. I like to travel in my leisure time and have been to around 15-20 countries and lived in 3 (Sri Lanka, Thailand, Germany). As an engineer i enjoy technical work rather than managerial tasks and like to take ideas and suggestions on their merit. I've been brought up to treat every individual whatever his/her profession is with proper courtesy and consider patience and politeness as must have qualities.    
 </p>
 
+-   Address : No. 309/15, Galhena Rd, Meegahawatta, Delgoda, 11700, Sri Lanka
+-   Telephone/Whatsapp: +94776793134
+-   Skype: lahiru.herath007
+-   Email: lahiru.herath@gmail.com
 
 ## My Education
 
