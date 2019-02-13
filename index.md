@@ -14,7 +14,7 @@
 -   Address : No. 309/15, Galhena Rd, Meegahawatta, Delgoda, 11700, Sri Lanka
 -   Telephone/Whatsapp: +94776793134
 -   Skype: lahiru.herath007
--   Email: lahiru.herath@gmail.com
+-   Email: lahiru.herath@gmail.com , lherath@tuebingen.mpg.de , lahiru@alumni.ait.asia
 
 ## My Education
 
@@ -166,7 +166,7 @@ Business or sector  | FMCG Manufacturing
 -   Sinhalese:  Mother tongue
 -   English:    Fluent
 -   Deutsch:    Beginner
-
+-   French:     Elementary
 ## Publications
 
 -   Sharif A., Lahiru H., Herath S. and Roth H. (2018). Energy Efficient Path Planning of Hybrid Fly-Drive Robot (HyFDR) using A* Algorithm.In Proceedings of the 15th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO, ISBN 978-989-758-321-6, pages 201-210. DOI: 10.5220/0006912602110220 <a href="https://www.youtube.com/watch?v=3PiTMBOSX_4&feature=youtu.be">Video</a> 
