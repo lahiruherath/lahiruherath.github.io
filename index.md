@@ -19,21 +19,21 @@
 ## My Education
 
 1.  MSc in Mechatronics<br/>
-    University of Siegen, Germany<br/>
+    <a href="http://www.uni-siegen.de/start/">University of Siegen, Germany</a><br/>
     ▪ Cumulative Grade 2.1/5.0 , German Grading system (gut , Second Upper)
 
 2.  BSc in Engineering in Mechatronics<br/>
-    Asian Institute of Technology, Thailand<br/>
+    <a href="https://www.ait.ac.th/">Asian Institute of Technology, Thailand</a><br/>
     ▪ First Class Cumulative GPA 3.74/4.0
 
 3.  CIMA Operational Level
 
 4.  GCE A/L Local Syllabus English Medium<br/>
-    Royal College, Colombo, Sri Lanka<br/>
+    <a href="https://royalcollege.lk/">Royal College, Colombo, Sri Lanka</a><br/>
     ▪ 2 B , 1C
     
 5.  GCE O/L Local Syllabus English Medium<br/>
-    Royal College, Colombo, Sri Lanka<br/>
+    <a href="https://royalcollege.lk/">Royal College, Colombo, Sri Lanka</a><br/>
     ▪ 7A , 1C
 
 ## Work Experience 
