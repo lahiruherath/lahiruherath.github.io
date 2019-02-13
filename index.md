@@ -14,7 +14,9 @@
 -   Address : No. 309/15, Galhena Rd, Meegahawatta, Delgoda, 11700, Sri Lanka
 -   Telephone/Whatsapp: +94776793134
 -   Skype: lahiru.herath007
--   Email: lahiru.herath@gmail.com , lherath@tuebingen.mpg.de , lahiru@alumni.ait.asia
+-   Email: <a href="lahiru.herath@gmail.com">lahiru.herath@gmail.com</a>.<br>
+            <a href="lherath@tuebingen.mpg.de">lherath@tuebingen.mpg.de</a>.<br>
+            <a href="lahiru@alumni.ait.asia">lahiru@alumni.ait.asia</a>.<br>
 
 ## My Education
 
@@ -96,7 +98,7 @@ Business or sector  | FMCG Manufacturing
 
 -   **Machinery design and fabrication using Solidworks and Uni graphics. Competant in handling CNC machines and G codes and all major fabrication instruments and requirements**
 
--   **Embedded firware development using PIC, RPi, Arduino and Nvidia Jetson**
+-   **Embedded firmware development using PIC, RPi, Arduino and Nvidia Jetson**
 
 -   **FPGA development using Xilinux**
 
