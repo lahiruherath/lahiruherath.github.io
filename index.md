@@ -12,11 +12,9 @@
 </p>
 
 -   Address : No. 309/15, Galhena Rd, Meegahawatta, Delgoda, 11700, Sri Lanka
--   Telephone/Whatsapp: +94776793134
--   Skype: lahiru.herath007
--   Email: <a href="lahiru.herath@gmail.com">lahiru.herath@gmail.com</a>.<br>
-            <a href="lherath@tuebingen.mpg.de">lherath@tuebingen.mpg.de</a>.<br>
-            <a href="lahiru@alumni.ait.asia">lahiru@alumni.ait.asia</a>.<br>
+-   Telephone/Whatsapp: <a href="tel:+94776793134">+94 (0)776 - 793 134</a>
+-   Skype: <a href="skype:lahiru.herath007">lahiru.herath007</a>
+-   Email: <a href="lahiru.herath@gmail.com">lahiru.herath@gmail.com</a>, <a href="lherath@tuebingen.mpg.de">lherath@tuebingen.mpg.de</a>, <a href="lahiru@alumni.ait.asia">lahiru@alumni.ait.asia</a>.<br>
 
 ## My Education
 
